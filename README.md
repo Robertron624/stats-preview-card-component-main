@@ -22,8 +22,13 @@ Users should be able to:
 
 - View the optimal layout depending on their device's screen size
 
-### Screenshot
+### Screenshots
 
+Desktop
+![Frontend-Mentor-Stats-preview-card-component](https://user-images.githubusercontent.com/72587880/218324415-3d3f7492-1653-450c-8cf4-ef5c45dd778f.png)
+
+Mobile
+![Frontend-Mentor-Stats-preview-card-component-mobile](https://user-images.githubusercontent.com/72587880/218324418-7314b193-7006-49a6-b013-5f6951e8dc7a.png)
 
 ### Links
 
