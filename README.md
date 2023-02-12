@@ -32,8 +32,8 @@ Mobile
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Robertron624/stats-preview-card-component-main.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://github.com/Robertron624/stats-preview-card-component-main.git)
+- Live Site URL: [Live site URL here](https://cosmic-marigold-7ff710.netlify.app/)
 
 ## My process
 
